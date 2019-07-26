@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/messageapp/static/css/main.838097a2.chunk.css",
+    "main.css": "/messageapp/static/css/main.65f90528.chunk.css",
     "main.js": "/messageapp/static/js/main.49db5e64.chunk.js",
     "main.js.map": "/messageapp/static/js/main.49db5e64.chunk.js.map",
     "runtime~main.js": "/messageapp/static/js/runtime~main.c946dfba.js",
@@ -8,8 +8,8 @@
     "static/js/2.b89041cf.chunk.js": "/messageapp/static/js/2.b89041cf.chunk.js",
     "static/js/2.b89041cf.chunk.js.map": "/messageapp/static/js/2.b89041cf.chunk.js.map",
     "index.html": "/messageapp/index.html",
-    "precache-manifest.dbc3ec39fafba22d023d634effb52912.js": "/messageapp/precache-manifest.dbc3ec39fafba22d023d634effb52912.js",
+    "precache-manifest.2a4d35b3be4ba52f1e8eb2b1fb6a92ca.js": "/messageapp/precache-manifest.2a4d35b3be4ba52f1e8eb2b1fb6a92ca.js",
     "service-worker.js": "/messageapp/service-worker.js",
-    "static/css/main.838097a2.chunk.css.map": "/messageapp/static/css/main.838097a2.chunk.css.map"
+    "static/css/main.65f90528.chunk.css.map": "/messageapp/static/css/main.65f90528.chunk.css.map"
   }
 }
